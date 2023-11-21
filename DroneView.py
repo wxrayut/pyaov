@@ -1,14 +1,5 @@
 
 # This script was proudly coded by wxrayut (https://github.com/wxrayut).
-# --------------------------------------
-#
-# I apologize for being overly skilled.
-# It's boring to see people without ability proudly showing off scripts taken for free from GitHub, pretending as if it's their own work.
-# This kind of behavior is quite tiresome. 
-# That's so fucking noob.
-# I mean the person who sold my script, even though it's free.
-#
-# --------------------------------------
 
 import os
 from zipfile import ZipFile
